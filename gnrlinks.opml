@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="1.0">
+	<head>
+		<title>GitmoLinks</title>
+		<dateCreated>Fri, 21 Dec 2012 00:00:00 GMT</dateCreated>
+		<dateModified>Fri, 21 Dec 2012 00:00:00 GMT</dateModified>
+		<ownerName>GitmoName</ownerName>
+		<ownerEmail>gitmo@gnrpodcast.com</ownerEmail>
+		<link>http://gnrpodcast.com</link>
+	</head>
+<body>
+	<outline text="Podcasts">
+		<outline text="The worst podcast in the world"  type="link" url="http://gnrpodcast.com" dateCreated="Fri, 21 Dec 2012 00:00:00 GMT"/>
+		<outline text="Go find the others"  type="link" url="http://gofindtheothers.com/?feed=rss2" dateCreated="Fri, 21 Dec 2012 00:00:00 GMT"/>
+		<outline text="Libertarian">
+			<outline text="Lew Rockwell"  type="link" url="http://www.lewrockwell.com/lewrockwell-show/feed/" dateCreated="Fri, 21 Dec 2012 00:00:00 GMT"/>
+		</outline>
+	</outline>
+	<outline text="Books">
+		<outline text="Wooden books"  type="link" url="http://woodenbooks.co.uk/" dateCreated="Fri, 21 Dec 2012 00:00:00 GMT"/>
+		<outline text="Entertainment"  type="link" url="http://news4humans.com/feeds/ent.xml" dateCreated="Thu, 12 Sep 2003 23:35:52 GMT"/>
+	</outline>
+</body>
+</opml>
