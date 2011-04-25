@@ -23,3 +23,8 @@ https://github.com/gnrpodcast/gitmolinks/
 4) when finished editing click the commit button
 
 5) when ready make the pull request
+
+6) your fork will become out of date as changes are committed upstream.
+Thus before editing files you need to patch your fork to get the latest file versions.
+Click 'fork queue' to patch your fork.
+Click 'network' to see a history of file changes in each author/committer's fork
