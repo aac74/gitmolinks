@@ -1,3 +1,25 @@
 OPML 2.0 spec, validator and editor:
 
 http://www.opml.org/
+
+-----------------------------------------------------
+
+Get the OPML editor for Mac and Windows here:
+
+http://editor.opml.org/
+
+-----------------------------------------------------
+
+Instructions for using Github:
+
+1) setup your githib account
+
+2) go to the gnr page on github and press the fork button to get the files in your account:
+https://github.com/gnrpodcast/gitmolinks/
+
+3) go to your page and click on the file you want to edit e.g. gnrlinks.opml
+(just click the 'edit file' button and copy/paste the text into a local editor - e.g. the OPML editor - and paste it back in when you finish your edit)
+
+4) when finished editing click the commit button
+
+5) when ready make the pull request
